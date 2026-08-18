@@ -1,0 +1,1 @@
+pandoc 0-Prologue.md -M lang=fa -M dir=rtl -o 0-Prologue.docx --reference-doc=../refdoc.docx

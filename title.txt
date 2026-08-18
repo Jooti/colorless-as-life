@@ -1,0 +1,7 @@
+---
+title: به بی‌رنگی زندگی
+author: س. امیر احسانی
+rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+language: fa-IR
+cover-image: "0-0-cover.png"
+...
