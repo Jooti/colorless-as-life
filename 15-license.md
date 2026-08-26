@@ -17,8 +17,6 @@
 برای مشاهدهٔ نسخهٔ معتبر این مجوز، به لینک زیر مراجعه کنید:
 [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fa](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fa)
 
-
-
-تماس با نویسنده: [amir@ehsani.ir](mailto:amir@ehsani.ir?subject=%D8%A8%D9%87%20%D8%A8%DB%8C%E2%80%8C%D8%B1%D9%86%DA%AF%DB%8C%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C)
+تماس با نویسنده: [i@jooti.net](mailto:i@jooti.net?subject=%D8%A8%D9%87%20%D8%A8%DB%8C%E2%80%8C%D8%B1%D9%86%DA%AF%DB%8C%20%D8%B2%D9%86%D8%AF%DA%AF%DB%8C)
 
 
