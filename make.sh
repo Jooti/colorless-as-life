@@ -1,7 +1,6 @@
 #!/bin/bash
 
 pandoc -o ./out/colorless-as-life.epub title.txt \
-    0-1-beta.md pagebreak.txt \
     0-prologue.md pagebreak.txt \
     1-1-chapter1-part1.md \
     1-2-chapter1-part2.md pagebreak.txt \
